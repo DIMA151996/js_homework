@@ -1,2 +1,5 @@
-# js_homework2
-open index.html with Live Server
+# js_homework3
+Run js_homework5.js in terminal
+```yml
+node js_homework5.js
+```
