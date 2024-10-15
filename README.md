@@ -1,1 +1,2 @@
-# js_homework1
+# js_homework2
+open index.html with Live Server
